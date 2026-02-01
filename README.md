@@ -67,6 +67,7 @@ or academic risk detection.
 - Automated change tracking using database triggers
 - Backend logic implemented in Python and SQL
 - GUI designed for real-time data interaction
+
 ```text
 student-academic-management-system/
 ├── README.md
@@ -77,7 +78,7 @@ student-academic-management-system/
 │   └── backend_code.py
 └── frontend/
     └── class_gpa_management_app.py
-、、、
+```
 
 
 ## Future AI Integration Path
